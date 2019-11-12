@@ -1,0 +1,190 @@
+{
+  "mini-css-extract-plugin ../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../../Java Projects\\clearance-goods\\front-end-react\\pages\\shop-homepage.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css ../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css 0": 0,
+      "css ../../../Java Projects\\clearance-goods\\front-end-react\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../../Java Projects\\clearance-goods\\front-end-react\\pages\\shop-homepage.css 0": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static\\vrHobAIizLtrLm4EU7ZBc\\pages\\MyLayout.js": 3,
+      "static\\vrHobAIizLtrLm4EU7ZBc\\pages\\Products.js": 4,
+      "static\\vrHobAIizLtrLm4EU7ZBc\\pages\\_app.js": 5,
+      "static\\vrHobAIizLtrLm4EU7ZBc\\pages\\_error.js": 6,
+      "static\\vrHobAIizLtrLm4EU7ZBc\\pages\\index.js": 7,
+      "styles": 8,
+      "static\\VtLQWdHQ79auAURwaa2zY\\pages\\MyLayout.js": 9,
+      "static\\VtLQWdHQ79auAURwaa2zY\\pages\\_app.js": 10,
+      "static\\VtLQWdHQ79auAURwaa2zY\\pages\\_error.js": 11,
+      "static\\VtLQWdHQ79auAURwaa2zY\\pages\\index.js": 12,
+      "static\\1QmBKuCxV-lfRcSmzskkh\\pages\\MyLayout.js": 3,
+      "static\\1QmBKuCxV-lfRcSmzskkh\\pages\\_app.js": 4,
+      "static\\1QmBKuCxV-lfRcSmzskkh\\pages\\_error.js": 5,
+      "static\\1QmBKuCxV-lfRcSmzskkh\\pages\\index.js": 6,
+      "static\\nCBp3bVng_z4SxieR8WbI\\pages\\MyLayout.js": 7,
+      "static\\nCBp3bVng_z4SxieR8WbI\\pages\\_app.js": 9,
+      "static\\nCBp3bVng_z4SxieR8WbI\\pages\\_error.js": 10,
+      "static\\nCBp3bVng_z4SxieR8WbI\\pages\\index.js": 11,
+      "static\\woEYxTJtKDM0BbLJNSgv6\\pages\\MyLayout.js": 3,
+      "static\\woEYxTJtKDM0BbLJNSgv6\\pages\\_app.js": 4,
+      "static\\woEYxTJtKDM0BbLJNSgv6\\pages\\_error.js": 5,
+      "static\\woEYxTJtKDM0BbLJNSgv6\\pages\\index.js": 6,
+      "static\\BHGTNBsOOME9RKbmSzPy8\\pages\\MyLayout.js": 7,
+      "static\\BHGTNBsOOME9RKbmSzPy8\\pages\\_app.js": 9,
+      "static\\BHGTNBsOOME9RKbmSzPy8\\pages\\_error.js": 10,
+      "static\\BHGTNBsOOME9RKbmSzPy8\\pages\\index.js": 11,
+      "static\\FKfgsVgZNhNZIK8uP7Rho\\pages\\MyLayout.js": 3,
+      "static\\FKfgsVgZNhNZIK8uP7Rho\\pages\\_app.js": 4,
+      "static\\FKfgsVgZNhNZIK8uP7Rho\\pages\\_error.js": 5,
+      "static\\FKfgsVgZNhNZIK8uP7Rho\\pages\\index.js": 6,
+      "static\\XBzgyaGE334z_LY9HbhL5\\pages\\MyLayout.js": 7,
+      "static\\XBzgyaGE334z_LY9HbhL5\\pages\\_app.js": 9,
+      "static\\XBzgyaGE334z_LY9HbhL5\\pages\\_error.js": 10,
+      "static\\XBzgyaGE334z_LY9HbhL5\\pages\\index.js": 11,
+      "static\\M9V7dDEgkvcML1JatvKA2\\pages\\MyLayout.js": 3,
+      "static\\M9V7dDEgkvcML1JatvKA2\\pages\\_app.js": 4,
+      "static\\M9V7dDEgkvcML1JatvKA2\\pages\\_error.js": 5,
+      "static\\M9V7dDEgkvcML1JatvKA2\\pages\\index.js": 6,
+      "static\\vzoTa00MulhdpnkC3g95n\\pages\\MyLayout.js": 7,
+      "static\\vzoTa00MulhdpnkC3g95n\\pages\\_app.js": 9,
+      "static\\vzoTa00MulhdpnkC3g95n\\pages\\_error.js": 10,
+      "static\\vzoTa00MulhdpnkC3g95n\\pages\\index.js": 11,
+      "static\\WJ73SyzfLMgey_ydwwnJY\\pages\\MyLayout.js": 3,
+      "static\\WJ73SyzfLMgey_ydwwnJY\\pages\\_app.js": 4,
+      "static\\WJ73SyzfLMgey_ydwwnJY\\pages\\_error.js": 5,
+      "static\\WJ73SyzfLMgey_ydwwnJY\\pages\\index.js": 6,
+      "static\\ytP_6MupE4XNXfAnqd5jj\\pages\\MyLayout.js": 7,
+      "static\\ytP_6MupE4XNXfAnqd5jj\\pages\\_app.js": 9,
+      "static\\ytP_6MupE4XNXfAnqd5jj\\pages\\_error.js": 10,
+      "static\\ytP_6MupE4XNXfAnqd5jj\\pages\\index.js": 11,
+      "static\\D5yPzdRkMAnvA_PefuMzv\\pages\\MyLayout.js": 3,
+      "static\\D5yPzdRkMAnvA_PefuMzv\\pages\\_app.js": 4,
+      "static\\D5yPzdRkMAnvA_PefuMzv\\pages\\_error.js": 5,
+      "static\\D5yPzdRkMAnvA_PefuMzv\\pages\\index.js": 6,
+      "static\\6E681ItwKZPxsYtRNitle\\pages\\MyLayout.js": 7,
+      "static\\6E681ItwKZPxsYtRNitle\\pages\\_app.js": 9,
+      "static\\6E681ItwKZPxsYtRNitle\\pages\\_error.js": 10,
+      "static\\6E681ItwKZPxsYtRNitle\\pages\\index.js": 11,
+      "static\\afVtyh3pm5Xcz6w_5uk1D\\pages\\MyLayout.js": 3,
+      "static\\afVtyh3pm5Xcz6w_5uk1D\\pages\\_app.js": 4,
+      "static\\afVtyh3pm5Xcz6w_5uk1D\\pages\\_error.js": 5,
+      "static\\afVtyh3pm5Xcz6w_5uk1D\\pages\\index.js": 6,
+      "static\\rnRrB6BgF9A2Cx6DKgm8M\\pages\\MyLayout.js": 7,
+      "static\\rnRrB6BgF9A2Cx6DKgm8M\\pages\\_app.js": 9,
+      "static\\rnRrB6BgF9A2Cx6DKgm8M\\pages\\_error.js": 10,
+      "static\\rnRrB6BgF9A2Cx6DKgm8M\\pages\\index.js": 11,
+      "static\\6bjF5nsTJJwt2qVTnwk0J\\pages\\MyLayout.js": 3,
+      "static\\6bjF5nsTJJwt2qVTnwk0J\\pages\\_app.js": 4,
+      "static\\6bjF5nsTJJwt2qVTnwk0J\\pages\\_error.js": 5,
+      "static\\6bjF5nsTJJwt2qVTnwk0J\\pages\\index.js": 6,
+      "static\\CjXVYRwkY746c6zYJ4DfN\\pages\\MyLayout.js": 7,
+      "static\\CjXVYRwkY746c6zYJ4DfN\\pages\\_app.js": 9,
+      "static\\CjXVYRwkY746c6zYJ4DfN\\pages\\_error.js": 10,
+      "static\\CjXVYRwkY746c6zYJ4DfN\\pages\\index.js": 11,
+      "static\\CbOlcugjf5RDXy-_r7rsx\\pages\\MyLayout.js": 3,
+      "static\\CbOlcugjf5RDXy-_r7rsx\\pages\\_app.js": 4,
+      "static\\CbOlcugjf5RDXy-_r7rsx\\pages\\_error.js": 5,
+      "static\\CbOlcugjf5RDXy-_r7rsx\\pages\\index.js": 6,
+      "static\\91khbNnYw-6khenfPfSHW\\pages\\MyLayout.js": 7,
+      "static\\91khbNnYw-6khenfPfSHW\\pages\\_app.js": 9,
+      "static\\91khbNnYw-6khenfPfSHW\\pages\\_error.js": 10,
+      "static\\91khbNnYw-6khenfPfSHW\\pages\\index.js": 11,
+      "static\\icVu_IlGt2Jaua2UML4y8\\pages\\MyLayout.js": 3,
+      "static\\icVu_IlGt2Jaua2UML4y8\\pages\\_app.js": 4,
+      "static\\icVu_IlGt2Jaua2UML4y8\\pages\\_error.js": 5,
+      "static\\icVu_IlGt2Jaua2UML4y8\\pages\\index.js": 6,
+      "static\\shtymocDo7jISnEXIHxlZ\\pages\\MyLayout.js": 7,
+      "static\\shtymocDo7jISnEXIHxlZ\\pages\\_app.js": 9,
+      "static\\shtymocDo7jISnEXIHxlZ\\pages\\_error.js": 10,
+      "static\\shtymocDo7jISnEXIHxlZ\\pages\\index.js": 11,
+      "static\\7_3JUUHX-wKIXkudsPfkm\\pages\\MyLayout.js": 3,
+      "static\\7_3JUUHX-wKIXkudsPfkm\\pages\\_app.js": 4,
+      "static\\7_3JUUHX-wKIXkudsPfkm\\pages\\_error.js": 5,
+      "static\\7_3JUUHX-wKIXkudsPfkm\\pages\\index.js": 6,
+      "static\\39JLczwnempD4EEesygPc\\pages\\MyLayout.js": 7,
+      "static\\39JLczwnempD4EEesygPc\\pages\\_app.js": 9,
+      "static\\39JLczwnempD4EEesygPc\\pages\\_error.js": 10,
+      "static\\39JLczwnempD4EEesygPc\\pages\\index.js": 11,
+      "static\\P_QKpyu1I98VjwNspvAQK\\pages\\MyLayout.js": 3,
+      "static\\P_QKpyu1I98VjwNspvAQK\\pages\\_app.js": 4,
+      "static\\P_QKpyu1I98VjwNspvAQK\\pages\\_error.js": 5,
+      "static\\P_QKpyu1I98VjwNspvAQK\\pages\\index.js": 6,
+      "static\\zqh_cdpN_inKvVVB2DDxT\\pages\\MyLayout.js": 7,
+      "static\\zqh_cdpN_inKvVVB2DDxT\\pages\\_app.js": 9,
+      "static\\zqh_cdpN_inKvVVB2DDxT\\pages\\_error.js": 10,
+      "static\\zqh_cdpN_inKvVVB2DDxT\\pages\\index.js": 11,
+      "static\\FFb2Hrx2Q_-ZMVgcusKEn\\pages\\MyLayout.js": 3,
+      "static\\FFb2Hrx2Q_-ZMVgcusKEn\\pages\\_app.js": 4,
+      "static\\FFb2Hrx2Q_-ZMVgcusKEn\\pages\\_error.js": 5,
+      "static\\FFb2Hrx2Q_-ZMVgcusKEn\\pages\\index.js": 6,
+      "static\\WtHe5NQLbq198oRL6s6Sn\\pages\\MyLayout.js": 7,
+      "static\\WtHe5NQLbq198oRL6s6Sn\\pages\\_app.js": 9,
+      "static\\WtHe5NQLbq198oRL6s6Sn\\pages\\_error.js": 10,
+      "static\\WtHe5NQLbq198oRL6s6Sn\\pages\\index.js": 11,
+      "static\\pudafVzwMmazlmV8spJH_\\pages\\MyLayout.js": 3,
+      "static\\pudafVzwMmazlmV8spJH_\\pages\\_app.js": 4,
+      "static\\pudafVzwMmazlmV8spJH_\\pages\\_error.js": 5,
+      "static\\pudafVzwMmazlmV8spJH_\\pages\\index.js": 6,
+      "static\\01-O2WpUpvQo_omJaeZsg\\pages\\MyLayout.js": 7,
+      "static\\01-O2WpUpvQo_omJaeZsg\\pages\\_app.js": 9,
+      "static\\01-O2WpUpvQo_omJaeZsg\\pages\\_error.js": 10,
+      "static\\01-O2WpUpvQo_omJaeZsg\\pages\\index.js": 11,
+      "static\\IquQxggrmV4xMY5Os4pbJ\\pages\\MyLayout.js": 3,
+      "static\\IquQxggrmV4xMY5Os4pbJ\\pages\\_app.js": 4,
+      "static\\IquQxggrmV4xMY5Os4pbJ\\pages\\_error.js": 5,
+      "static\\IquQxggrmV4xMY5Os4pbJ\\pages\\index.js": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ]
+  }
+}
