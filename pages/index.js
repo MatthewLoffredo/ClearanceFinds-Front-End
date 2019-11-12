@@ -5,6 +5,8 @@ import './shop-homepage.css';
 import fetch from 'isomorphic-unfetch';
 import {Card, CardBody, CardImg, CardTitle, Col} from "reactstrap";
 import Row from "reactstrap/lib/Row";
+import Amplify from 'aws-amplify';
+import config from '../src/config';
 
 
 const Index = (props) => {
@@ -79,4 +81,15 @@ Index.getInitialProps = async function () {
     };
 };
 
+Amplify.configure({
+  API: {
+    endpoints: [
+      {
+        name: "goods",
+        endpoint: config.apiGateway.URL,
+        region: config.apiGateway.REGION
+      },
+    ]
+  }
+});
 export default Index;
